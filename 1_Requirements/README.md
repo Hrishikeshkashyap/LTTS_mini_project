@@ -14,7 +14,7 @@
 ### *Cost*
 Since the system uses only open source software, it is free of cost..!!
 
-*TBD*
+
 
 ### *Features*
 The various features/options for interconversion of the system are:
