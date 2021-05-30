@@ -27,7 +27,7 @@ The various features/options for interconversion of the system are:
 ![System-Diagram](https://github.com/Hrishikeshkashyap/LTTS_mini_project/blob/main/1_Requirements/system_diagram.jpg)
     
 ## SWOT ANALYSIS
-![SWOT-Analysis](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/6f6972167470b4b186e9995b7a6647f3f8c7cbd5/1_Requirements/swot%20analysis.jpg)
+![SWOT-Analysis](https://github.com/Hrishikeshkashyap/LTTS_mini_project/blob/main/1_Requirements/swot.jpg)
 
 # 4W&#39;s and 1&#39;H
 
