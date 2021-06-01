@@ -1,7 +1,7 @@
 # Time Difference Calculator
 
 This script helps to calculate the time difference between two dates in 3 formats namely days, months and years.
-This tools can further be integrated with projects that requires such difference like delivery systems, scheduling tasks etc.
+This tools can further be integrated with projects that requires calculation of such difference like delivery systems, scheduling tasks etc.
 
 
 ## Folder Structure
@@ -21,7 +21,7 @@ SF No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## Challenges Faced and How Was It Overcome
 
-1. Calculating the extra days for the leap years in between -> Made another method that deals with leap year counting
+1. Calculating the extra days for the leap years -> Made another method that deals with leap year counting
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
