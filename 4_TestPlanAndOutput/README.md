@@ -8,6 +8,6 @@
 ## Unit Test (Low level test)
 * countLeapYears function - Requirement based test - Passing
 * getDifference function - Requirement based test - Passing
-* number of days - Scenario based test - Passing
-* number of months - Scenario based test - Passing
-* number of years - Scenario based test - Passing
+* number of days - Requirement based test - Passing
+* number of months - Requirement based test - Passing
+* number of years - Requirement based test - Passing
