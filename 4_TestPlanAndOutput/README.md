@@ -14,7 +14,7 @@
 
 The function modules are tested and its shows correct output:
 
-![test](https://github.com/Hrishikeshkashyap/LTTS_mini_project/blob/main/4_TestPlanAndOutput/test.png
+![test](https://github.com/Hrishikeshkashyap/LTTS_mini_project/blob/main/4_TestPlanAndOutput/test.png)
 
 ## Define Test criteria:
 
