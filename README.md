@@ -1,7 +1,7 @@
 # Time Difference Calculator
 
-This script lets one get time difference between two dates in 3 formats namely days, months and years.
-This tools can further be integrated with projects that requires such difference like delivery systems.
+This script helps to calculate the time difference between two dates in 3 formats namely days, months and years.
+This tools can further be integrated with projects that requires such difference like delivery systems, scheduling tasks etc.
 
 
 ## Folder Structure
