@@ -1,9 +1,9 @@
 # test plan and test ouput
 
-## Integration test (High level test)
-* number of days - Scenario based test - Passing
-* number of months - Scenario based test - Passing
-* number of years - Scenario based test - Passing
+## Analyze the product:
+1. Software will be used by common user
+2. A screen will appear which takes users input
+3. Result will be flash on the screen
 
 ## Unit Test (Low level test)
 * countLeapYears function - Requirement based test - Passing
